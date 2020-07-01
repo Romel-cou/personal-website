@@ -29,9 +29,6 @@ p{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
 }
-img{
-    width: 100%
-}
 section{
     height: 500px;
     padding: 200px 50px;
@@ -47,6 +44,9 @@ section{
 .bio-img{
     width: 100%;
 }
+.header-img{
+    width: 40%;
+}
 .bio-banner{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
@@ -59,10 +59,11 @@ div{
 }
 div img{
     display: inline-block;
-    width: 30%;
-    height: 30%;
+    width: 31%;
     padding: 1%;
 }
+
+
 h3{
     font-size: 40px;
     font-weight: 600;
